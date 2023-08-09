@@ -1,9 +1,6 @@
 # ORCHID-SPORTS
 
-The Orchid-Sports is an E-Commerce Web-Application that allows users to discover, explore, and purchase a wide range of sports-related
-products.
-
-From athletic apparel and equipment to accessories and gear, Orchid-Sports caters to the diverse needs of sports enthusiasts of all levels.
+The Orchid-Sports is an E-Commerce Web-Application that allows users to discover, explore, and purchase a wide range of sports-related products. From athletic apparel and equipment to accessories and gear, Orchid-Sports caters to the diverse needs of sports enthusiasts of all levels.
 
 
 ## Installations
